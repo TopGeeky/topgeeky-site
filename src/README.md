@@ -19,6 +19,6 @@ actions:
     link: ./guide/
 
 
-copyright: false
-footer: 使用 <a href="https://topgeeky.com" target="_blank">TopGeeky </a> 所有 | 版权所有 © 2019-至今 Mr.TopGeeky
+copyright: TopGeeky
+footer: 内容 <a href="https://topgeeky.com" target="_blank">TopGeeky </a> 所有 | 版权所有 © 2019-至今 TopGeeky
 
