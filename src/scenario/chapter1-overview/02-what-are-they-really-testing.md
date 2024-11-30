@@ -86,7 +86,7 @@ author: TopGeeky
 
 先来看看，高可用的系统都应该满足那几个方面吧 
 
-![系统高可用性方案-水印](/Users/keagan/Pictures/系统高可用性方案-水印.png)
+![系统高可用性方案-水印](https://keaganoss.oss-cn-shanghai.aliyuncs.com/scenario/202411301108349.png)
 
 一般来说高可用系统一般包括五个方面，分别是**缩短故障持续时长、缩小故障范围、降低用户故障感知、降低系统压力、提高系统恢复能力**， 这五个方面分别有不同应对方式来应对，后续会继续分享如何完善这五个维度。
 
@@ -100,7 +100,7 @@ author: TopGeeky
 
 总体来说，故障排查类场景题主要包括这么几个方面
 
-![故障排查分类-水印](/Users/keagan/Pictures/故障排查分类-水印.png)
+![故障排查分类-水印](https://keaganoss.oss-cn-shanghai.aliyuncs.com/scenario/202411301108197.png)
 
 ### 故障排查题常让人陷入迷茫，为什么？
 
