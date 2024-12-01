@@ -1,6 +1,6 @@
 ---
 title: 系统设计面试题
-icon: lightbulb
+icon: "cubes"
 ---
 
 ## 系统设计面试题
